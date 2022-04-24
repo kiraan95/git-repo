@@ -2,4 +2,4 @@ adding context file on master
 
 Docker class
 
-devops class
+linux
